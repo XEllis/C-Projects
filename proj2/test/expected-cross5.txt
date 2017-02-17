@@ -1,0 +1,5 @@
+pattern> Invalid pattern
+pattern> pattern
+pattern> Invalid pattern
+pattern> divide
+pattern> 

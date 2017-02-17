@@ -1,0 +1,5 @@
+This bracket "{"
+is inside a string.
+And "this
+     line is also"
+so it doesn't get re-indented.

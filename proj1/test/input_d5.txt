@@ -1,0 +1,26 @@
+This file
+contains some hard tabs.
+{
+	when these occur
+		at the start of a line, {
+	they should be
+}
+  	  	  removed (along
+  with spaces.)
+{
+but, when a 	tab	occurs
+inside {
+	a line
+} it shouldn't be {
+removed }
+or changed.
+A blank line, like this
+
+doesn't get indented at all.
+If a line contains only spaces
+and tabs like the next line,
+           		 
+these spaces or tabs will be discarded, but
+no indenting spaces will be inserted.
+}
+}

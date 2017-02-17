@@ -1,0 +1,69 @@
+pattern> tweezers
+pattern> homework
+pattern> adverbs
+adverse
+adverts
+caverns
+cavorts
+covered
+coverts
+diverge
+diverse
+diverts
+divorce
+favored
+fevered
+governs
+hovered
+inverse
+inverts
+levered
+obverse
+poverty
+revered
+reveres
+reverie
+reverse
+reverts
+savored
+several
+severed
+severer
+taverns
+wavered
+pattern> manipulator
+masquerader
+minesweeper
+misbehavior
+misdemeanor
+moisturizer
+moonlighter
+mountaineer
+multiplexer
+multiplexor
+pattern> buzzed
+buzzer
+buzzes
+dazzle
+fezzes
+fizzed
+fizzes
+fizzle
+fuzzed
+fuzzes
+guzzle
+jazzed
+jazzes
+mizzen
+muzzle
+nozzle
+nuzzle
+pizzas
+puzzle
+razzed
+razzes
+sizzle
+wizzes
+pattern> pattern> ceremony
+versions
+pattern> 

@@ -1,0 +1,10 @@
+> > > > > > > > > 
+ 7:00  8:00 (001) Bart   Marathon
+ 9:30 11:30 (006) Lisa   Hammer throw
+10:00 12:00 (004) Bart   Discus
+12:30 14:45 (005) Lisa   Biathlon
+13:00 13:30 (003) Bart   High dive
+13:30 15:30 (008) Maggie Recreational volleyball
+16:00 18:00 (007) Lisa   Recreational swimming
+17:00 19:30 (002) Maggie Heptathlon
+> 

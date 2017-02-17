@@ -1,0 +1,7 @@
+This {
+      will be indented {
+                as if
+  it's
+       }
+   source code
+}

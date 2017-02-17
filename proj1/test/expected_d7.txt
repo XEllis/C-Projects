@@ -1,0 +1,5 @@
+This file {
+  also contains
+}
+an error.
+Unmatched brackets

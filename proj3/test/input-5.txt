@@ -1,0 +1,24 @@
+add 16:00 18:00 Lisa Recreational swimming
+add 10:15 12:45 Marge 100 Meter
+add 13:00 13:30 Bart High dive
+add 10:00 10:05 Homer Whitewater rafting
+add 15:10 16:20 Bart First aid
+add 14:45 15:30 Marge Basketball
+add 10:00 12:00 Bart Discus
+add 13:00 15:30 Maggie Recreational volleyball
+add 12:30 14:45 Lisa Biathlon
+add 7:00 8:00 Bart Marathon
+add 12:45 13:15 Marge Lunch
+add 8:30 9:30 Maggie Napkin folding
+add 15:08 16:22 Homer Nap
+add 14:00 15:05 Bart Arts and crafts
+add 17:00 19:30 Maggie Heptathlon
+schedule
+add 9:30 11:30 Lisa Hammer throw
+add 16:00 17:30 Marge Fishing
+match Hammer
+match Throw
+match recreational
+match nap
+match raft
+quit

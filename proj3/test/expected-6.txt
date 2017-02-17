@@ -1,0 +1,19 @@
+> > > > > > 
+11:00 12:30 (002) Ann       Bingo
+11:00 13:00 (003) Elizabeth Movie (finding nemo)
+12:00 13:30 (001) Glen      Lunch
+13:00 14:00 (005) Ann       Charades tournament
+15:30 17:45 (004) Glen      Poker tournament finals
+> 
+11:00 12:30 (002) Ann       Bingo
+11:00 13:00 (003) Elizabeth Movie (finding nemo)
+12:00 13:30 (001) Glen      Lunch
+> 
+13:00 14:00 (005) Ann  Charades tournament
+15:30 17:45 (004) Glen Poker tournament finals
+> > 
+11:00 12:30 (002) Ann  Bingo
+12:00 13:30 (001) Glen Lunch
+13:00 14:00 (005) Ann  Charades tournament
+15:30 17:45 (004) Glen Poker tournament finals
+> 

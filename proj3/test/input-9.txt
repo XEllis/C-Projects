@@ -1,0 +1,7 @@
+add 8:30 9:30 PortCityJava Breakfast
+schedule
+add 23:30 24:30 TacoBell Fourth meal
+add 12:30 11:30 Wendy's Inverse lunch
+add 600 700 Chipotle Abbreviated dinner
+schedule
+quit

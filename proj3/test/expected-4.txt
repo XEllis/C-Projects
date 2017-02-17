@@ -1,0 +1,25 @@
+> > > > > > > > > > > > > > 
+ 7:00  8:00 (009) Bart   Marathon
+ 9:30 11:30 (001) Lisa   Hammer throw
+10:00 12:00 (006) Bart   Discus
+10:15 12:45 (003) Marge  100 Meter
+12:30 14:45 (008) Lisa   Biathlon
+12:45 13:15 (011) Marge  Lunch
+13:00 13:30 (004) Bart   High dive
+13:00 15:30 (007) Maggie Recreational volleyball
+14:45 15:30 (005) Marge  Basketball
+15:00 16:00 (012) Bart   Arts and crafts
+16:00 18:00 (002) Lisa   Recreational swimming
+16:00 17:30 (010) Marge  Fishing
+17:00 19:30 (013) Maggie Heptathlon
+> 
+ 9:30 11:30 (001) Lisa  Hammer throw
+10:00 12:00 (006) Bart  Discus
+10:15 12:45 (003) Marge 100 Meter
+> 
+10:15 12:45 (003) Marge 100 Meter
+12:30 14:45 (008) Lisa  Biathlon
+> 
+16:00 18:00 (002) Lisa  Recreational swimming
+16:00 17:30 (010) Marge Fishing
+> 

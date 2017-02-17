@@ -1,0 +1,12 @@
+add 1:30 2:45 Floyd Partial differential equations
+add 4:15 5:45 Floyd Australian rappelling
+add 11:30 13:30 Karen Pool games
+add 19:00 20:00 Mike Evening 10K run
+add 14:00 15:30 Karen Choir practice
+add 8:00 10:00 Karen Boat safety
+add 10:00 11:15 Floyd Ballroom dancing
+add 7:00 8:00 Mike Morning 10K run
+add 2:00 3:00 Mike Afternoon 10K run
+schedule
+leader 012345678901234567890
+quit

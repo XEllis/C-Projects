@@ -1,0 +1,5 @@
+pattern> good
+pattern> most
+pattern> first
+pattern> pattern> pattern> work
+pattern> pattern> 

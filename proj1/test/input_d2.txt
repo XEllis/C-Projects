@@ -1,0 +1,11 @@
+This
+{
+example is
+more {
+interesting }
+{{
+it contains some curly brackets.
+so }
+some lines }
+will be indented }
+While others won't.

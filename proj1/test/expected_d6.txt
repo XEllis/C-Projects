@@ -1,0 +1,9 @@
+This {
+  file contains {
+    an error {
+      The input file {
+        shouldn't end {
+          with an indentation {
+            level greater than {
+              zero.
+Unmatched brackets

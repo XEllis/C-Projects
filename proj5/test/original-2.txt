@@ -1,0 +1,14 @@
+This is a file with some more
+varied
+
+line length.
+It will be good for testing cursor movement.
+On a longer
+line,
+you can move the cursor way over to the right, but when
+you move to
+a
+shorter line, it will have to move back
+to
+the
+left.

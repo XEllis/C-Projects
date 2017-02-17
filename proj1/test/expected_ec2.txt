@@ -1,0 +1,13 @@
+This bracket {
+  will indent.
+  "but not this one {"
+  {
+    "These don't count }}"
+    "This line will get re-indented, but not the next two
+          this line starts with spaces
+"
+  }
+  "}"
+}
+"This file ends inside a string, that's bad,
+but we don't consider it an error...

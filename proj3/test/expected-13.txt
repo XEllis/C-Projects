@@ -1,0 +1,12 @@
+> > 
+12:00 13:00 (001) Martin Topiary without tears
+> Schedule conflict
+> > 
+11:30 12:30 (002) Marvin Fantasy baseball
+12:00 13:00 (001) Martin Topiary without tears
+> Schedule conflict
+> > 
+11:30 12:30 (002) Marvin Fantasy baseball
+12:00 13:00 (001) Martin Topiary without tears
+13:00 14:00 (003) Martin Wikipedia retcon bonanza
+> 

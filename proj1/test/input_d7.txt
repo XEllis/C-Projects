@@ -1,0 +1,13 @@
+This file {
+also contains
+}
+an error.
+}
+The indentation level
+should never drop
+}
+below zero,
+but it did
+}
+several lines
+ago.

@@ -1,0 +1,6 @@
+> > > > > 
+ 0:00 23:59 (001) ChristopherMcDermott Support meeting for people with long names
+ 0:00 12:00 (002) Q                    Discussion group among former Star Trek characters, part 1
+12:00 13:00 (004) Bill                 A long topic, that may require a few reallocations to store.  This is why we're storing the topic in a separate array, rather than in the activity struct itself.  If we stored it right in the struct, we'd have to leave enough room for a big string like this, which would be a waste of space for most activities (that have much shorter titles).  By storing it separately, outside the struct, we can use a longer dynamically allocated array when we need to, and a shorter one where we can.
+12:00 23:59 (003) Q                    Discussion group among former Star Trek characters, part 2
+> 

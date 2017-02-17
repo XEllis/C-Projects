@@ -1,0 +1,9 @@
+add 12:00 13:00 Martin Topiary without tears
+schedule
+add 11:30 12:30 Martin Fantasy baseball
+add 11:30 12:30 Marvin Fantasy baseball
+schedule
+add 12:59 13:59 Martin Improvisational surgery theater
+add 13:00 14:00 Martin Wikipedia retcon bonanza
+schedule
+quit

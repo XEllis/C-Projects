@@ -1,0 +1,13 @@
+sled
+test-1
+test-2
+test-3
+test-4
+test.txt
+!curse/libncurses.a
+!curse/libtinfo.a
+
+# Some students were getting large, AFS temporary files that
+# were causing trouble for push.  This should prevent these
+# files from being staged.
+.__afs*

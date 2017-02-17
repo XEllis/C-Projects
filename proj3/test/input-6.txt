@@ -1,0 +1,11 @@
+add 12:00 13:30 Glen Lunch
+add 11:00 12:30 Ann Bingo
+add 11:00 13:00 Elizabeth Movie (finding nemo)
+add 15:30 17:45 Glen Poker tournament finals
+add 13:00 14:00 Ann Charades tournament
+schedule
+at 12:00
+match tournament
+remove 3
+schedule
+quit

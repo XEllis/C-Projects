@@ -1,0 +1,9 @@
+There are no
+curly brackets
+in this file,
+so the indenting
+at the start of these
+lines should go
+away.  But spaces
+with in a line (or at the end)
+should      stay.

@@ -1,0 +1,24 @@
+Lines that {
+  start {
+    with a
+    closing { bracket
+      like this one
+    } get their indentation
+    level reduced before the
+  } line { gets
+    printed
+    {
+      that way
+      a closing curly bracket
+      can line up with {
+        the matching opening bracket
+      }
+    }
+  }}
+But, as you can see
+from that last line,
+this {
+  only works
+  for the
+}
+first curly bracket.

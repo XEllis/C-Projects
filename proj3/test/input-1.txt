@@ -1,0 +1,5 @@
+add 6:00 9:00 Alvin Continental breakfast
+add 9:30 10:30 Nancy Beginner's archery
+add 10:00 11:00 Alvin Nature walk
+schedule
+quit

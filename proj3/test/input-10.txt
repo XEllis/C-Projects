@@ -1,0 +1,17 @@
+add 13:00 13:35 Marge Lunch
+add 9:30 11:30 Lisa Hammer throw
+add 13:00 15:30 Maggie Recreational vollyeball
+add 16:00 18:00 Lisa Recreational swimming
+add 10:15 12:45 Marge 100 Meter
+add 13:00 13:30 Bart High dive
+add 10:00 12:00 Bart Discus
+add 12:30 14:45 Lisa Biathlon
+add 7:00 8:00 Bart Marathon
+add 17:00 19:30 Maggie Heptathlon
+schedule
+remove -5
+remove 25
+remove orange
+remove 10
+schedule
+quit
